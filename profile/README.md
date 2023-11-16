@@ -4,6 +4,9 @@ Tu máte učebné plány pre 2. ročník.
 
 https://github.com/AppsLab-sk/curriculum-2023-2024/tree/main/2_rocnik
 
+Zadanie polročného projektu: [Polročný projekt Openlab-2-2023.pdf](https://github.com/Openlab-2-2023/.github/files/13373375/Polrocny.projekt.Openlab-2-2023.pdf)
+
+
 <!--
 
 **Here are some ideas to get you started:**
