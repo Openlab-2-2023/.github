@@ -6,7 +6,8 @@ https://github.com/AppsLab-sk/curriculum-2023-2024/tree/main/2_rocnik
 
 Zadanie polročného projektu: [Polročný projekt Openlab-2-2023.pdf](https://github.com/Openlab-2-2023/.github/files/13373375/Polrocny.projekt.Openlab-2-2023.pdf)
 
-Prezentacie ZOOM -> •	2. ročník - https://meet.google.com/sud-yzgp-wow
+Zadanie koncoročného projektu: [Koncoročný projekt Openlab-2-2023.pdf](https://github.com/Openlab-2-2023/.github/files/15465125/Koncorocny.projekt.Openlab.pdf)
+
 
 <!--
 
